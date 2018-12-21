@@ -92,6 +92,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Controllers\VideoControllerTests.cs" />
+    <Compile Include="Extensions\EntityDefaultValuesExtensions.cs" />
     <Compile Include="GlobalSetup.cs" />
     <Compile Include="Isolated.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
